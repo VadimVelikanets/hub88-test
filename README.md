@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Hub88 Frontend Developer Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The app was created using React, Typescript, SCSS, Apollo Graphql.
 
 ## Available Scripts
 

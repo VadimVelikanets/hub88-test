@@ -1,0 +1,22 @@
+.filter {
+  position: relative;
+  margin: 0 auto;
+
+  &__input {
+    border-radius: 20px;
+    padding: 15.5px 25px;
+    width: -webkit-fill-available;
+    border: 1px #CCCCCC solid;
+    background-color: #EFF3F4;
+    outline: none;
+    font-size: 16px;
+  }
+
+  &__close {
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+}
